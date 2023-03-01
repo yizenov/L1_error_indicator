@@ -1,0 +1,35 @@
+Timing is on.
+ count 
+-------
+     4
+(1 row)
+
+Time: 17231.047 ms (00:17.231)
+Timing is on.
+ count 
+-------
+     4
+(1 row)
+
+Time: 14983.633 ms (00:14.984)
+Timing is on.
+ count 
+-------
+     4
+(1 row)
+
+Time: 15024.995 ms (00:15.025)
+Timing is on.
+ count 
+-------
+     4
+(1 row)
+
+Time: 14940.464 ms (00:14.940)
+Timing is on.
+ count 
+-------
+     4
+(1 row)
+
+Time: 15551.591 ms (00:15.552)

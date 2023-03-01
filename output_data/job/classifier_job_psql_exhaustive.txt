@@ -1,0 +1,47 @@
+-------------
+Confusion Matrix: 
+        TN, FP
+        FN, TP
+train: 
+[[ 6  3]
+ [ 0 58]]
+test:  
+[[ 5  4]
+ [ 1 36]]
+
+          estimated bad     |estimated good 
+true bad |      94 (TP)     |       1 (FN)
+true good|      7 (FP)     |       11 (TN)
+-------------
+Total: 113
+        size of train data and label: 67, 67
+        size of test data and label: 46, 46
+Total True Positives: 95
+Total True Negatives: 18
+
+Total Estimated Positives: 101
+Total Estimated Negatives: 12
+
+Prediction Accuracy (Train): 0.96
+Prediction Accuracy (Test): 0.89
+-------------
+train data stats (FN, FP):[0, 3]
+
+FN train queries:
+
+FP train queries:
+['10c', 1.0, 'Simple']
+['16d', 1.0, 'Moderate']
+['16b', 1.0, 'Moderate']
+-------------
+test data stats (FN, FP):[1, 4]
+
+FN test queries:
+['5c', 1.04, 'Simple']
+
+FP test queries:
+['17e', 1.0, 'Simple']
+['32b', 1.0, 'Simple']
+['10b', 1.0, 'Simple']
+['6c', 1.0, 'Simple']
+-------------
