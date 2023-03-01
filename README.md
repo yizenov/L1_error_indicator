@@ -1,4 +1,4 @@
-# Identifying Sub-optimal Query Plans via L1-error
+# Sub-optimal Query Plan Classification by L1-error
 
 ## Table of Contents
 1. [Experimental Setup](#setup)
